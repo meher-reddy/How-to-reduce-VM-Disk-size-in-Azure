@@ -1,5 +1,6 @@
 # How-to-resize-VM-Disk-in-Azure
 credits: https://jrudlin.github.io/2019-08-27-shrink-azure-vm-osdisk/
+
 Objective: Reduce the Disk Size of Windows VM in Azure.
 Procedure:
 1. Connect to the VM that you want to perform the changes to.
